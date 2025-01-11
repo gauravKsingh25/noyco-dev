@@ -1,0 +1,355 @@
+/* user_Profile css */
+
+
+/* ProfilePart.css */
+.user-profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 960px; /* Adjust max width for responsiveness */
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin-top: 18px;
+  }
+
+  .user_profile_heading{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.uph_content{
+    width: 100%;
+    color: black;
+    max-width: 960px;
+
+  
+    font-size: 2.7rem; /* Slightly larger font size for better readability */
+    font-weight: 600; /* Bold font for emphasis */
+    color: #333333; /* Dark color for readability */
+    text-transform: capitalize; /* Capitalize first letter for uniformity */
+    letter-spacing: 0px; /* Adds slight spacing for a clean look */
+    padding: 10px 0px; /* Adds some space around the text */
+    border-radius: 5px; /* Rounded edges for a smooth appearance */
+
+}
+
+  .top{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .bottom_area{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .user-profile-top {
+    width: 100%;
+    height: 150px;
+    background-color:#1f2937; /* Changeable per user */
+  }
+  
+  .user-profile-circular-pic {
+    position: relative;
+    top: -74px; /* Adjust to overlap with top and bottom */
+    left: -380px;
+    width: 150px;
+    height: 150px;
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #eaeaea;
+  }
+  
+  .user-profile-circular-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .user-profile-bottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 72%;
+    padding: 20px;
+    gap: 10px;
+    /* background-color: aquamarine; */
+    position: relative;
+    top: -85px;
+  }
+  
+  .user-name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #333333;
+  }
+  
+  .saved-ai {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .save-ai img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .user-info-tiles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+    /* justify-content: center; */
+  }
+  
+  .user-tile {
+    /* display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 0.9rem;
+    color: #555555;
+    min-width: 120px; */
+
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 400;
+    padding: 7px 14px;
+    background-color:  #1f293712;
+    border-radius: 12px;
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06); */
+    font-size: 1rem;
+    color: black;
+    min-width: 150px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  /* .user-tile:hover{
+ 
+  } */
+  
+  .user-tile img {
+    width: 20px;
+    height: 20px;
+  }
+
+
+
+  .user-name-text {
+    width: 100%;
+    font-size: 2.2rem; /* Slightly larger font size for better readability */
+    font-weight: bold; /* Bold font for emphasis */
+    color: #333333; /* Dark color for readability */
+    text-transform: capitalize; /* Capitalize first letter for uniformity */
+    letter-spacing: 0.5px; /* Adds slight spacing for a clean look */
+    padding: 5px 0px; /* Adds some space around the text */
+    border-radius: 5px; /* Rounded edges for a smooth appearance */
+   
+    margin: 0 auto; /* Center the element if it's block-level */
+    display: inline-block; /* Keeps the width minimal and aligns with content */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+  }
+  
+ 
+  
+
+
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .user-profile-container {
+      max-width: 100%;
+    }
+  
+    .user-info-tiles {
+      flex-direction: column;
+      align-items: center;
+    }
+    .user-profile-circular-pic{
+        left: 0;
+    }
+  }
+  
+
+
+
+
+
+
+
+  /* main page  */
+
+
+  .top_navigation_container {
+    display: flex; /* Align items horizontally */
+    /* justify-content: space-between;  */
+    gap: 1vh;
+    align-items: center; /* Vertically center the tiles */
+    padding: 10px 0px; 
+    width: 100%;
+    max-width: 960px;
+  }
+  
+  .tnc_tiles {
+    /* background-color: #f0f0f0; */
+    padding: 7px 21px;
+    border-radius: 15px; 
+    text-align: center; 
+    
+    color: #333; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+
+
+
+    font-size: 1.1rem; 
+    font-weight:600; 
+
+    text-transform: capitalize; 
+    letter-spacing: 0.5px;    
+    /* margin: 0 auto; 
+    display: inline-block;  */
+ 
+  }
+  .tnc_tiles_selected{
+    background-color: #1f2937;
+    padding: 7px 21px;
+    border-radius: 15px; 
+    text-align: center; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+
+    font-size: 1.1rem; 
+    font-weight:600; 
+
+    text-transform: capitalize; 
+    letter-spacing: 0.5px;
+    color: white;
+  }
+
+  .tnc_tiles:hover {
+    background-color: #e8e8e8;
+
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /*  */
+
+
+
+  /* styles/updateProfile.module.css */
+.update-profile-container {
+    width: 100%;
+    max-width: 960px;
+    margin: 18px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+
+  }
+  
+  .profile-picture-section {
+    display: flex;
+    /* align-items: center; */
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .profile-picture {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ddd;
+  }
+  
+  .profile-edit-icon {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .update-profile-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 16px;
+  }
+  
+  .form-row {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .form-group {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .save-button {
+    padding: 10px 20px;
+    background-color: #6c63ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    align-self: flex-end;
+  }
+  
+  .save-button:hover {
+    background-color: #5548d8;
+  }
+  

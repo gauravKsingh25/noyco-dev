@@ -1,0 +1,3770 @@
+[
+  {
+    "title": "WitChat",
+    "link": "http://www.witchat.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/witchat.svg?height=207"
+  },
+  {
+    "title": "Braintrust AIR",
+    "link": "https://www.usebraintrust.com/air?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/braintrust-air.svg?height=207"
+  },
+  {
+    "title": "YC-GPT",
+    "link": "https://yc-gpt.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $30/yr",
+    "icon": "https://media.theresanaiforthat.com/icons/yc-gpt.svg?height=207"
+  },
+  {
+    "title": "Speck",
+    "link": "https://tryspeck.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $80/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/speck.svg?height=207"
+  },
+  {
+    "title": "Snippai",
+    "link": "https://snip.js.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/snippai.svg?height=207"
+  },
+  {
+    "title": "Yomii",
+    "link": "https://yomii.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/yomii.svg?height=207"
+  },
+  {
+    "title": "DOCUBASE.AI",
+    "link": "https://docubase.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $31.48/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/docubase-ai.svg?height=207"
+  },
+  {
+    "title": "Spreadbot",
+    "link": "https://spreadbot.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $139/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/spreadbot.svg?height=207"
+  },
+  {
+    "title": "Kula",
+    "link": "https://www.joinkula.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $150",
+    "icon": "https://media.theresanaiforthat.com/icons/kula-1718049899.svg?height=207"
+  },
+  {
+    "title": "QRev",
+    "link": "https://qrev.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/qrev.svg?height=207"
+  },
+  {
+    "title": "StockStory",
+    "link": "https://stockstory.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/stockstory.svg?height=207"
+  },
+  {
+    "title": "Solaya",
+    "link": "https://www.solaya.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/solaya.svg?height=207"
+  },
+  {
+    "title": "Hooper",
+    "link": "https://www.hooper.gg/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/hooper.svg?height=207"
+  },
+  {
+    "title": "Toolblox",
+    "link": "https://www.toolblox.net/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/toolblox.png?height=207"
+  },
+  {
+    "title": "Beam AI",
+    "link": "https://beam.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/beamai.png?height=207"
+  },
+  {
+    "title": "SnipOwl",
+    "link": "https://snipowl.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.34/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/snipowl.svg?height=207"
+  },
+  {
+    "title": "Tess Design",
+    "link": "https://www.tess.design/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20",
+    "icon": "https://media.theresanaiforthat.com/icons/tess-design.png?height=207"
+  },
+  {
+    "title": "Coverse",
+    "link": "https://coverse.one/ai?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.75/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/coverse.svg?height=207"
+  },
+  {
+    "title": "Senior AI",
+    "link": "https://seniorai.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $44/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/senior-ai.svg?height=207"
+  },
+  {
+    "title": "Blue - ChatGPT for Mac",
+    "link": "https://meetblue.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5",
+    "icon": "https://media.theresanaiforthat.com/icons/blue-chatgpt-for-mac.png?height=207"
+  },
+  {
+    "title": "SheetMagic",
+    "link": "https://sheetmagic.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sheetmagic.svg?height=207"
+  },
+  {
+    "title": "ThinkAny - AI Search Engine",
+    "link": "https://thinkany.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/thinkany-ai-search-engine.svg?height=207"
+  },
+  {
+    "title": "IDM VTON",
+    "link": "https://idmvton.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/idm-vton.svg?height=207"
+  },
+  {
+    "title": "Golfmind",
+    "link": "https://golfmind.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/golfmind.png?height=207"
+  },
+  {
+    "title": "SaaS Forge",
+    "link": "https://www.saas-forge.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/saas-forge.svg?height=207"
+  },
+  {
+    "title": "Smatr-AI",
+    "link": "https://smatr-ai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "Brainy Docs",
+    "link": "https://brainydocuments.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/brainy-docs.svg?height=207"
+  },
+  {
+    "title": "Smartrazor",
+    "link": "https://smartrazor.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/smartrazor.svg?height=207"
+  },
+  {
+    "title": "Stackpointer",
+    "link": "https://stackpointer.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/stackpointer.svg?height=207"
+  },
+  {
+    "title": "Redro",
+    "link": "https://redro.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/redro.svg?height=207"
+  },
+  {
+    "title": "Newton Eyes",
+    "link": "https://newton-eyes.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/newton-eyes.svg?height=207"
+  },
+  {
+    "title": "Workato",
+    "link": "https://www.workato.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/workato.svg?height=207"
+  },
+  {
+    "title": "Segwise",
+    "link": "https://www.segwise.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/segwise.svg?height=207"
+  },
+  {
+    "title": "CustomGPT.ai",
+    "link": "https://customgpt.ai/?fpr=theres-an-ai-for-that98&utm_source=Online%20Dashboard%20&utm_medium=Dashboard%20&utm_campaign=Theres_An_AI_For_That&utm_id=Dashboard&utm_content=Theres_An_AI_For_That",
+    "price": "Free + from $99",
+    "icon": "https://media.theresanaiforthat.com/icons/customgpt-ai.png?height=207"
+  },
+  {
+    "title": "Girlfriendly AI",
+    "link": "https://www.girlfriendly.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/girlfriendly-ai.svg?height=207"
+  },
+  {
+    "title": "Tallyrus",
+    "link": "https://tallyrus.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/tallyrus.png?height=207"
+  },
+  {
+    "title": "Vidful.ai",
+    "link": "https://vidful.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/vidful-ai.svg?height=207"
+  },
+  {
+    "title": "Swift Gum",
+    "link": "https://www.swiftgum.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $106/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/swift-gum.svg?height=207"
+  },
+  {
+    "title": "GrowFol",
+    "link": "https://growfol.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/growfol.png?height=207"
+  },
+  {
+    "title": "AI Reply by ReplyReviews",
+    "link": "https://chromewebstore.google.com/detail/ai-reply-by-replyreviewsc/elbojdneleeihjbdgmgbjkgfepfefmje?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-reply-by-replyreviews.png?height=207"
+  },
+  {
+    "title": "BlogFAST",
+    "link": "https://blogfa.st/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $269",
+    "icon": "https://media.theresanaiforthat.com/icons/blogfast.svg?height=207"
+  },
+  {
+    "title": "SecBrain",
+    "link": "https://www.secbrain.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/secbrain.svg?height=207"
+  },
+  {
+    "title": "Secret Llama",
+    "link": "https://secretllama.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/secret-llama.svg?height=207"
+  },
+  {
+    "title": "Glato AI",
+    "link": "https://glato.ai/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/glato-ai.svg?height=207"
+  },
+  {
+    "title": "ClickSpeech",
+    "link": "https://clickspeech.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.99",
+    "icon": "https://media.theresanaiforthat.com/icons/clickspeech.svg?height=207"
+  },
+  {
+    "title": "ServiceBell",
+    "link": "https://www.servicebell.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $250/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/servicebell.svg?height=207"
+  },
+  {
+    "title": "Jeeva",
+    "link": "https://www.jeeva.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/jeeva.svg?height=207"
+  },
+  {
+    "title": "Zenora",
+    "link": "https://zenora.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/zenora.svg?height=207"
+  },
+  {
+    "title": "pdfAssistant.ai",
+    "link": "https://pdfassistant.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99",
+    "icon": "https://media.theresanaiforthat.com/icons/pdfassistant-ai.svg?height=207"
+  },
+  {
+    "title": "Boords - Character Generator",
+    "link": "https://boords.com/ai-character-generator?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/boords-character-generator.svg?height=207"
+  },
+  {
+    "title": "SectorFlow",
+    "link": "https://sectorflow.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $2000/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sectorflow.svg?height=207"
+  },
+  {
+    "title": "youtwo.ai",
+    "link": "https://youtwo.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5",
+    "icon": "https://media.theresanaiforthat.com/icons/youtwo-ai.png?height=207"
+  },
+  {
+    "title": "HTCD",
+    "link": "https://www.htcd.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/htcd.svg?height=207"
+  },
+  {
+    "title": "PikPoet",
+    "link": "https://www.pikpoet.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/pikpoet.svg?height=207"
+  },
+  {
+    "title": "PearAI",
+    "link": "https://trypear.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/pearai.svg?height=207"
+  },
+  {
+    "title": "Revid",
+    "link": "https://www.revid.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $32/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/revid.svg?height=207"
+  },
+  {
+    "title": "Aflow",
+    "link": "https://aflow.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/aflow.png?height=207"
+  },
+  {
+    "title": "Semihuman AI",
+    "link": "https://www.semihuman.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $4.8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/semihuman-ai.svg?height=207"
+  },
+  {
+    "title": "HUUK",
+    "link": "https://huuk.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/huuk.svg?height=207"
+  },
+  {
+    "title": "Edubrain",
+    "link": "https://edubrain.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/edubrain.svg?height=207"
+  },
+  {
+    "title": "Odyssey",
+    "link": "https://odysseyapp.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.50/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/odyssey.svg?height=207"
+  },
+  {
+    "title": "Monitr",
+    "link": "https://www.monitr.space/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/monitr.png?height=207"
+  },
+  {
+    "title": "Flowtrail AI",
+    "link": "https://flowtrail.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/flowtrail-ai.png?height=207"
+  },
+  {
+    "title": "Infinity AI",
+    "link": "https://infinity.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/infinity-ai.svg?height=207"
+  },
+  {
+    "title": "Cykel",
+    "link": "https://www.cykel.ai/l/home?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cykel.svg?height=207"
+  },
+  {
+    "title": "Milio",
+    "link": "https://www.milio.ooo/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $35/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/milio.svg?height=207"
+  },
+  {
+    "title": "Wedding Speech Studio",
+    "link": "https://weddingspeechstudio.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9",
+    "icon": "https://media.theresanaiforthat.com/icons/wedding-speech-studio.svg?height=207"
+  },
+  {
+    "title": "Brella",
+    "link": "https://www.brella.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/brella.svg?height=207"
+  },
+  {
+    "title": "Yep AI",
+    "link": "https://www.yepai.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $39/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/yep-ai.svg?height=207"
+  },
+  {
+    "title": "Auto Gmail",
+    "link": "https://chromewebstore.google.com/detail/auto-gmail-chatgpt-ai-for/idcjeikbgickhefaljahoafgpmjdcmed",
+    "price": "Free + from $27",
+    "icon": "https://media.theresanaiforthat.com/icons/auto-gmail.png?height=207"
+  },
+  {
+    "title": "Lingolette",
+    "link": "https://lingolette.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lingolette.svg?height=207"
+  },
+  {
+    "title": "VSona",
+    "link": "https://vsona.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3.75/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vsona.svg?height=207"
+  },
+  {
+    "title": "EasyTrip AI",
+    "link": "https://easytrip.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $39.99",
+    "icon": "https://media.theresanaiforthat.com/icons/easytrip-ai.svg?height=207"
+  },
+  {
+    "title": "MailGenerator",
+    "link": "https://mailgenerator.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/mailgenerator.svg?height=207"
+  },
+  {
+    "title": "PropGenius",
+    "link": "https://propgenius.ai/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/propgenius.svg?height=207"
+  },
+  {
+    "title": "Flownote",
+    "link": "https://www.flownote.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/flownote.svg?height=207"
+  },
+  {
+    "title": "Finance Rants",
+    "link": "https://financerants.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/finance-rants.svg?height=207"
+  },
+  {
+    "title": "NailDesignsAI",
+    "link": "https://naildesignsai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/naildesignsai.svg?height=207"
+  },
+  {
+    "title": "AI HD Anime",
+    "link": "https://aihdanime.com/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-hd-anime.svg?height=207"
+  },
+  {
+    "title": "Progr",
+    "link": "https://progr.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/progr.png?height=207"
+  },
+  {
+    "title": "Landing.report",
+    "link": "https://www.landing.report/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/landing-report.svg?height=207"
+  },
+  {
+    "title": "Story Diffusion Gen",
+    "link": "https://storydiffusiongen.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/story-diffusion-gen.svg?height=207"
+  },
+  {
+    "title": "AcademyOcean",
+    "link": "https://academyocean.com/ai-course-creator?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $255/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/academyocean.svg?height=207"
+  },
+  {
+    "title": "Dymolab",
+    "link": "https://www.dymolab.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $89",
+    "icon": "https://media.theresanaiforthat.com/icons/dymolab.svg?height=207"
+  },
+  {
+    "title": "PyjamaHR",
+    "link": "https://pyjamahr.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/pyjamahr.svg?height=207"
+  },
+  {
+    "title": "Exante",
+    "link": "https://www.exante.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $89/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/exante.svg?height=207"
+  },
+  {
+    "title": "AI Tattoo Generator App",
+    "link": "https://aitattoogenerator.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $10.86",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-tattoo-generator-app.svg?height=207"
+  },
+  {
+    "title": "Aura.com",
+    "link": "https://www.aura.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aura-com.svg?height=207"
+  },
+  {
+    "title": "Lingoedit",
+    "link": "https://www.lingoedit.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lingoedit.png?height=207"
+  },
+  {
+    "title": "Tweetsi",
+    "link": "https://www.tweetsi.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/tweetsi.svg?height=207"
+  },
+  {
+    "title": "DocsHound",
+    "link": "https://docshound.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $80/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/docshound.png?height=207"
+  },
+  {
+    "title": "Vectorize",
+    "link": "https://vectorize.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/vectorize.svg?height=207"
+  },
+  {
+    "title": "SEOJuice",
+    "link": "https://seojuice.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/seojuice.png?height=207"
+  },
+  {
+    "title": "File Transcribe",
+    "link": "https://filetranscribe.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/file-transcribe.svg?height=207"
+  },
+  {
+    "title": "Basejump",
+    "link": "https://basejump.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $339/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/basejump.svg?height=207"
+  },
+  {
+    "title": "Fight IQ",
+    "link": "https://apps.apple.com/us/app/fight-iq/id6479872912?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/fight-iq.png?height=207"
+  },
+  {
+    "title": "AFFiNE AI",
+    "link": "https://affine.pro/ai?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/affine-ai.svg?height=207"
+  },
+  {
+    "title": "Loopy",
+    "link": "https://maxedlabs.com/loopy/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $0.19",
+    "icon": "https://media.theresanaiforthat.com/icons/loopy-1715118606.png?height=207"
+  },
+  {
+    "title": "Farspeak",
+    "link": "https://farspeak.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/farspeak.png?height=207"
+  },
+  {
+    "title": "Deep Dive Research Assistant",
+    "link": "https://www.join.modularmind.app/free-ai-research-assistant?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $14.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/deep-dive-research-assistant.svg?height=207"
+  },
+  {
+    "title": "AI Sticker Generator",
+    "link": "https://aifacestickergenerator.work/ai-sticker-generator?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-sticker-generator-1715239984.svg?height=207"
+  },
+  {
+    "title": "Loman",
+    "link": "https://www.loman.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $349/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/loman.svg?height=207"
+  },
+  {
+    "title": "HateHoundAPI",
+    "link": "https://hate-hound-api.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/hatehoundapi.png?height=207"
+  },
+  {
+    "title": "Intrvu Space",
+    "link": "https://www.intrvu.space/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $149/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/intrvu-space.svg?height=207"
+  },
+  {
+    "title": "AI Localizer",
+    "link": "https://www.wideanglesoftware.com/ailocalizer/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.90",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-localizer.svg?height=207"
+  },
+  {
+    "title": "Pixelcode",
+    "link": "https://pixelcode.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9",
+    "icon": "https://media.theresanaiforthat.com/icons/pixelcode.svg?height=207"
+  },
+  {
+    "title": "Exit Path",
+    "link": "https://exitpath.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/exit-path.png?height=207"
+  },
+  {
+    "title": "Talentjet",
+    "link": "https://talentjet.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/talentjet.svg?height=207"
+  },
+  {
+    "title": "Automateed",
+    "link": "https://automateed.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11.25/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/automateed.svg?height=207"
+  },
+  {
+    "title": "AI Copywriter",
+    "link": "https://aicopywriter.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-copywriter.svg?height=207"
+  },
+  {
+    "title": "InstaWebAI",
+    "link": "https://www.instawebai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/instawebai.png?height=207"
+  },
+  {
+    "title": "Alt Text AI Generator",
+    "link": "https://alttextgeneratorai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/alt-text-ai-generator.svg?height=207"
+  },
+  {
+    "title": "Cognition",
+    "link": "https://cognition.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cognition.svg?height=207"
+  },
+  {
+    "title": "CallFluent",
+    "link": "https://callfluent.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $37/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/callfluent.svg?height=207"
+  },
+  {
+    "title": "Fitting Room",
+    "link": "https://apps.apple.com/us/app/fitting-room-virtual-try-on/id6497954012?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99",
+    "icon": "https://media.theresanaiforthat.com/icons/fitting-room-1715170512.png?height=207"
+  },
+  {
+    "title": "Chatsumo",
+    "link": "https://www.chatsumo.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/chatsumo.svg?height=207"
+  },
+  {
+    "title": "Cheeta",
+    "link": "https://cheeta.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cheeta.svg?height=207"
+  },
+  {
+    "title": "ChatLLM Pro",
+    "link": "https://chatllm.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/chatllm-pro.svg?height=207"
+  },
+  {
+    "title": "Moderation.dev",
+    "link": "https://www.moderation.dev/app/home?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/moderation-dev.svg?height=207"
+  },
+  {
+    "title": "Tidyread",
+    "link": "https://tidyread.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/tidyread.svg?height=207"
+  },
+  {
+    "title": "CapUp",
+    "link": "https://gemoo.com/capup/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/capup.svg?height=207"
+  },
+  {
+    "title": "Hanabi.rest",
+    "link": "https://hanabi.rest/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/hanabi-rest.svg?height=207"
+  },
+  {
+    "title": "CodeSnaps",
+    "link": "https://www.codesnaps.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/codesnaps.svg?height=207"
+  },
+  {
+    "title": "Pure Global",
+    "link": "https://www.pureglobal.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/pure-global.svg?height=207"
+  },
+  {
+    "title": "Litlyx",
+    "link": "https://litlyx.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10.87/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/litlyx.svg?height=207"
+  },
+  {
+    "title": "Gumloop",
+    "link": "https://www.gumloop.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $97/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/gumloop.svg?height=207"
+  },
+  {
+    "title": "Manaflow",
+    "link": "https://manaflow.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $200/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/manaflow.svg?height=207"
+  },
+  {
+    "title": "SEOai",
+    "link": "https://www.seoai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $27.57/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/seoai.svg?height=207"
+  },
+  {
+    "title": "Onpage.ai",
+    "link": "https://www.onpage.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $79",
+    "icon": "https://media.theresanaiforthat.com/icons/onpage-ai.svg?height=207"
+  },
+  {
+    "title": "Wegic",
+    "link": "https://wegic.ai/?source=navi&plan=there",
+    "price": "Free + from $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/wegic.svg?height=207"
+  },
+  {
+    "title": "Sequens",
+    "link": "https://www.sequens.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $129/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sequens.svg?height=207"
+  },
+  {
+    "title": "CreateLogo",
+    "link": "https://createlogo.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/createlogo.png?height=207"
+  },
+  {
+    "title": "Decipher",
+    "link": "https://getdecipher.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $199/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/decipher.svg?height=207"
+  },
+  {
+    "title": "Plotlime",
+    "link": "https://plotlime.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/plotlime.svg?height=207"
+  },
+  {
+    "title": "Zoc",
+    "link": "https://zoc.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/zoc.svg?height=207"
+  },
+  {
+    "title": "MimicPC",
+    "link": "https://www.mimicpc.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $0.49",
+    "icon": "https://media.theresanaiforthat.com/icons/mimicpc.svg?height=207"
+  },
+  {
+    "title": "Wordsmith Studio",
+    "link": "https://wordsmith.studio/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $4.99",
+    "icon": "https://media.theresanaiforthat.com/icons/wordsmith-studio.svg?height=207"
+  },
+  {
+    "title": "Stable Artisan",
+    "link": "https://stability.ai/stable-artisan?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/stable-artisan.svg?height=207"
+  },
+  {
+    "title": "Meaning AI",
+    "link": "https://www.usemeaning.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/meaning-ai.svg?height=207"
+  },
+  {
+    "title": "Tattoo AI Design",
+    "link": "https://www.tattooai.design/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/tattoo-ai-design.png?height=207"
+  },
+  {
+    "title": "Formshare",
+    "link": "https://formshare.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/formshare.svg?height=207"
+  },
+  {
+    "title": "AI CSS Animations",
+    "link": "https://www.aicssanimations.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-css-animations.svg?height=207"
+  },
+  {
+    "title": "MailReply",
+    "link": "https://mailreply.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mailreply.svg?height=207"
+  },
+  {
+    "title": "Digiface",
+    "link": "https://digiface.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/digiface.svg?height=207"
+  },
+  {
+    "title": "MinimalChat",
+    "link": "https://minimalchat.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/minimalchat.svg?height=207"
+  },
+  {
+    "title": "Instructly",
+    "link": "https://instructly.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $27/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/instructly.svg?height=207"
+  },
+  {
+    "title": "FundEze",
+    "link": "https://www.fundeze.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/yr",
+    "icon": "https://media.theresanaiforthat.com/icons/fundeze.svg?height=207"
+  },
+  {
+    "title": "SleepytalesAI",
+    "link": "https://www.sleepytales.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sleepytalesai.svg?height=207"
+  },
+  {
+    "title": "OneClik",
+    "link": "https://www.oneclik.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $23/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/oneclik.svg?height=207"
+  },
+  {
+    "title": "Lokal",
+    "link": "https://lokal.so/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $57",
+    "icon": "https://media.theresanaiforthat.com/icons/lokal.svg?height=207"
+  },
+  {
+    "title": "Qura",
+    "link": "https://www.qura.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/qura.svg?height=207"
+  },
+  {
+    "title": "ResumeDive",
+    "link": "https://www.resumedive.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $17",
+    "icon": "https://media.theresanaiforthat.com/icons/resumedive.svg?height=207"
+  },
+  {
+    "title": "Quillow",
+    "link": "https://www.quillow.me/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15.00/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/quillow.png?height=207"
+  },
+  {
+    "title": "LinkedCRM AI",
+    "link": "https://linkedcrm.ai/linkedin-email-finder?ref=taaft&utm_source=taaft&utm_medium=referral&lc_src=taaft",
+    "price": "Free + from $1.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/linkedcrm-ai.svg?height=207"
+  },
+  {
+    "title": "Eroale",
+    "link": "https://eroale.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $39/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/eroale.svg?height=207"
+  },
+  {
+    "title": "fatGPT",
+    "link": "https://apps.apple.com/us/app/fatgpt-ai-weight-loss-coach/id6478470228?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/fatgpt-1715464328.png?height=207"
+  },
+  {
+    "title": "NutritionistAI",
+    "link": "https://t.me/nutritionist_ai?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/nutritionistai.svg?height=207"
+  },
+  {
+    "title": "Abstra",
+    "link": "https://www.abstra.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $300/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/abstra.svg?height=207"
+  },
+  {
+    "title": "StreamDocs.ai",
+    "link": "https://streamdocs.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/streamdocs-ai.svg?height=207"
+  },
+  {
+    "title": "TourTally",
+    "link": "https://tourtally.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/tourtally.svg?height=207"
+  },
+  {
+    "title": "devlo",
+    "link": "https://devlo.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/devlo.svg?height=207"
+  },
+  {
+    "title": "Talefy",
+    "link": "https://talefy.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $6.99",
+    "icon": "https://media.theresanaiforthat.com/icons/talefy.png?height=207"
+  },
+  {
+    "title": "Ink Studio AI",
+    "link": "https://inkstudioai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $23.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ink-studio-ai.svg?height=207"
+  },
+  {
+    "title": "VoiceCheap",
+    "link": "https://www.voicecheap.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $24/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/voicecheap.png?height=207"
+  },
+  {
+    "title": "AdGPT",
+    "link": "https://adgpt.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/adgpt.png?height=207"
+  },
+  {
+    "title": "TeachersHub",
+    "link": "https://www.teachershub.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/teachershub.svg?height=207"
+  },
+  {
+    "title": "Wafrow",
+    "link": "https://wafrow.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20.22/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/wafrow.svg?height=207"
+  },
+  {
+    "title": "Off/Script",
+    "link": "https://apps.apple.com/us/app/off-script-design-earn-shop/id6454177220?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1",
+    "icon": "https://media.theresanaiforthat.com/icons/off-script.png?height=207"
+  },
+  {
+    "title": "Copyright Check AI",
+    "link": "https://copyrightcheck.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $999",
+    "icon": "https://media.theresanaiforthat.com/icons/copyright-check-ai.svg?height=207"
+  },
+  {
+    "title": "PageGPT",
+    "link": "https://www.pageg.pt/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/yr",
+    "icon": "https://media.theresanaiforthat.com/icons/pagegpt-1715462404.svg?height=207"
+  },
+  {
+    "title": "Kveeky",
+    "link": "https://kveeky.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/kveeky.svg?height=207"
+  },
+  {
+    "title": "Wandpen",
+    "link": "https://chromewebstore.google.com/detail/wandpen-a-distraction-fre/macmkmchfoclhpbncclinhjflmdkaoom?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/wandpen.png?height=207"
+  },
+  {
+    "title": "Easy Apply",
+    "link": "https://www.easyappl.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/easy-apply.svg?height=207"
+  },
+  {
+    "title": "GigapixelAI",
+    "link": "https://gigapixelai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/gigapixelai.svg?height=207"
+  },
+  {
+    "title": "LaunchPod",
+    "link": "https://launchpod.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/launchpod.svg?height=207"
+  },
+  {
+    "title": "AI Recipe Generator",
+    "link": "https://recipepro.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-recipe-generator-1716968346.svg?height=207"
+  },
+  {
+    "title": "ContentGT",
+    "link": "https://contentgt.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/contentgt.svg?height=207"
+  },
+  {
+    "title": "Lead Diffusion AI",
+    "link": "https://leaddiffusion.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lead-diffusion-ai.svg?height=207"
+  },
+  {
+    "title": "LinkRobot",
+    "link": "https://linkrobot.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/linkrobot.svg?height=207"
+  },
+  {
+    "title": "Assistants Hub",
+    "link": "https://www.assistantshub.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/assistants-hub.svg?height=207"
+  },
+  {
+    "title": "Certidrill",
+    "link": "https://www.certidrill.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/certidrill.svg?height=207"
+  },
+  {
+    "title": "Senty Research",
+    "link": "https://www.senty.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $99",
+    "icon": "https://media.theresanaiforthat.com/icons/senty-research.svg?height=207"
+  },
+  {
+    "title": "ForVoyez",
+    "link": "https://forvoyez.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $4.24/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/forvoyez.svg?height=207"
+  },
+  {
+    "title": "Reply4Me",
+    "link": "https://reply4me.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/reply4me.svg?height=207"
+  },
+  {
+    "title": "Promi",
+    "link": "https://www.usepromi.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/promi.svg?height=207"
+  },
+  {
+    "title": "Kidzbook",
+    "link": "https://kidzbook.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5",
+    "icon": "https://media.theresanaiforthat.com/icons/kidzbook.svg?height=207"
+  },
+  {
+    "title": "I Have a Dream",
+    "link": "https://ihaveadream.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/i-have-a-dream.svg?height=207"
+  },
+  {
+    "title": "Enclave AI",
+    "link": "https://enclaveai.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/enclave-ai.svg?height=207"
+  },
+  {
+    "title": "MolyPix.AI",
+    "link": "https://molypix.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/molypix-ai.svg?height=207"
+  },
+  {
+    "title": "Content Captain",
+    "link": "https://www.contentcaptain.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/content-captain.svg?height=207"
+  },
+  {
+    "title": "Nextpart AI",
+    "link": "https://nextpart.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/nextpart-ai.svg?height=207"
+  },
+  {
+    "title": "PodScribe.IO",
+    "link": "https://podscribe.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/podscribe-1721038783.svg?height=207"
+  },
+  {
+    "title": "TalentWell AI",
+    "link": "https://talentwell.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/talentwell-ai.svg?height=207"
+  },
+  {
+    "title": "RobiAI",
+    "link": "https://robiai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/robiai.svg?height=207"
+  },
+  {
+    "title": "TextSmith",
+    "link": "https://textsmith.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/textsmith.svg?height=207"
+  },
+  {
+    "title": "Twilight",
+    "link": "https://twilight-landing.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/twilight.svg?height=207"
+  },
+  {
+    "title": "Mock-My-Mockup",
+    "link": "https://www.mockmymockup.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "HeyBeauty",
+    "link": "https://heybeauty.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/heybeauty.png?height=207"
+  },
+  {
+    "title": "peopleCQ",
+    "link": "https://www.peoplecq.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $40/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/peoplecq.svg?height=207"
+  },
+  {
+    "title": "QuickSight",
+    "link": "https://www.quicksight.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/quicksight.png?height=207"
+  },
+  {
+    "title": "VampAI",
+    "link": "https://www.usevampai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/vampai.png?height=207"
+  },
+  {
+    "title": "DocsChat",
+    "link": "https://docschatai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/docschat.svg?height=207"
+  },
+  {
+    "title": "TodoPal",
+    "link": "https://www.todopal.xyz/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/todopal.png?height=207"
+  },
+  {
+    "title": "Sub Translate AI",
+    "link": "https://subtranslateai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $6.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sub-translate-ai.svg?height=207"
+  },
+  {
+    "title": "Solvely",
+    "link": "https://solvely.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/solvely.svg?height=207"
+  },
+  {
+    "title": "NeonLingo",
+    "link": "https://www.neonlingo.com/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/neonlingo.svg?height=207"
+  },
+  {
+    "title": "Chipmunks AI",
+    "link": "https://chipmunks.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/chipmunks-ai.svg?height=207"
+  },
+  {
+    "title": "Twitti",
+    "link": "https://www.twitti.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $30",
+    "icon": "https://media.theresanaiforthat.com/icons/twitti.svg?height=207"
+  },
+  {
+    "title": "Globe Explorer",
+    "link": "https://explorer.globe.engineer/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/globe-explorer.svg?height=207"
+  },
+  {
+    "title": "APOB",
+    "link": "https://mega.apob.ai/taaft",
+    "price": "Free + from $7.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/apob.svg?height=207"
+  },
+  {
+    "title": "Bookmockup.AI",
+    "link": "https://bookmockup.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1",
+    "icon": "https://media.theresanaiforthat.com/icons/bookmockup-ai.svg?height=207"
+  },
+  {
+    "title": "AgentGenesis",
+    "link": "https://agentgenesis.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/agentgenesis.svg?height=207"
+  },
+  {
+    "title": "SEO Blog Generator",
+    "link": "https://seobloggenerator.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/seo-blog-generator.svg?height=207"
+  },
+  {
+    "title": "New Cult",
+    "link": "https://www.newcult.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $79",
+    "icon": "https://media.theresanaiforthat.com/icons/new-cult.svg?height=207"
+  },
+  {
+    "title": "Vocalx",
+    "link": "https://vocalx.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vocalx.svg?height=207"
+  },
+  {
+    "title": "Blog2Buzz",
+    "link": "https://blog2buzz.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/blog2buzz.svg?height=207"
+  },
+  {
+    "title": "ProDream",
+    "link": "https://prodream.ai/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/prodream.svg?height=207"
+  },
+  {
+    "title": "Hoggo",
+    "link": "https://hoggo.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $63.50/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/hoggo.svg?height=207"
+  },
+  {
+    "title": "Superlist",
+    "link": "https://www.superlist.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/superlist.svg?height=207"
+  },
+  {
+    "title": "Tweetlio",
+    "link": "https://www.tweetlio.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/tweetlio.svg?height=207"
+  },
+  {
+    "title": "Wyspa",
+    "link": "https://wyspa.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/wyspa.png?height=207"
+  },
+  {
+    "title": "Homie",
+    "link": "https://homie.gg/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15",
+    "icon": "https://media.theresanaiforthat.com/icons/homie-1715632888.png?height=207"
+  },
+  {
+    "title": "Wingman",
+    "link": "https://wingman.live/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $18.24/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/wingman-1715624645.svg?height=207"
+  },
+  {
+    "title": "Glue",
+    "link": "https://gluegroups.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/glue.svg?height=207"
+  },
+  {
+    "title": "LansiAI",
+    "link": "https://lansiai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lansiai.png?height=207"
+  },
+  {
+    "title": "The Storyteller",
+    "link": "https://play.google.com/store/apps/details?id=com.aistoryteller&ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/the-storyteller-1715717666.png?height=207"
+  },
+  {
+    "title": "Google VideoFX",
+    "link": "https://aitestkitchen.withgoogle.com/tools/video-fx?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/google-videofx.svg?height=207"
+  },
+  {
+    "title": "Illuminate",
+    "link": "https://illuminate.withgoogle.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/illuminate.svg?height=207"
+  },
+  {
+    "title": "Veo - Google DeepMind",
+    "link": "https://deepmind.google/technologies/veo/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/veo-google-deepmind.svg?height=207"
+  },
+  {
+    "title": "MagicPublish",
+    "link": "https://www.magicpublish.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/magicpublish.svg?height=207"
+  },
+  {
+    "title": "OmniAI",
+    "link": "https://getomni.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/omniai.svg?height=207"
+  },
+  {
+    "title": "Kerlig\u2122",
+    "link": "https://www.kerlig.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $47",
+    "icon": "https://media.theresanaiforthat.com/icons/kerlig.png?height=207"
+  },
+  {
+    "title": "MemoryLane",
+    "link": "https://memorylane.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/memorylane.png?height=207"
+  },
+  {
+    "title": "CreateGirls AI",
+    "link": "https://creategirls.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/creategirls-ai.svg?height=207"
+  },
+  {
+    "title": "Desktop Docs",
+    "link": "https://desktopdocs.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19.99",
+    "icon": "https://media.theresanaiforthat.com/icons/desktop-docs.png?height=207"
+  },
+  {
+    "title": "Helix SearchBot",
+    "link": "https://tryhelix.ai/searchbot?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/helix-searchbot.svg?height=207"
+  },
+  {
+    "title": "Braincast",
+    "link": "https://www.braincast.it/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $11/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/braincast.png?height=207"
+  },
+  {
+    "title": "MICRO LLM",
+    "link": "https://apps.apple.com/us/app/micro-llm/id6468129438?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/micro-llm.png?height=207"
+  },
+  {
+    "title": "IC Light AI",
+    "link": "https://iclightai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.5",
+    "icon": "https://media.theresanaiforthat.com/icons/ic-light-ai.svg?height=207"
+  },
+  {
+    "title": "Uini",
+    "link": "https://uini.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/uini.svg?height=207"
+  },
+  {
+    "title": "MarsCode",
+    "link": "https://www.marscode.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/marscode.svg?height=207"
+  },
+  {
+    "title": "Latercut",
+    "link": "https://latercut.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/latercut.svg?height=207"
+  },
+  {
+    "title": "Storyhex",
+    "link": "https://www.storyhex.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/storyhex.svg?height=207"
+  },
+  {
+    "title": "Konvart",
+    "link": "https://konvart.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/konvart.svg?height=207"
+  },
+  {
+    "title": "SureSteps",
+    "link": "https://suresteps.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/suresteps.png?height=207"
+  },
+  {
+    "title": "Elevux",
+    "link": "https://elevux.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/elevux.svg?height=207"
+  },
+  {
+    "title": "MapsScraperAI",
+    "link": "https://mapsscraper.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mapsscraperai.svg?height=207"
+  },
+  {
+    "title": "igenAI",
+    "link": "https://igenai.quantumorion.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/igenai.svg?height=207"
+  },
+  {
+    "title": "Macky",
+    "link": "https://macky.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/macky.png?height=207"
+  },
+  {
+    "title": "Jovu",
+    "link": "https://amplication.com/jovu--production-ready-ai-code-generation?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/jovu.svg?height=207"
+  },
+  {
+    "title": "Kinky AIs",
+    "link": "https://www.kinkyais.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/kinky-ais.png?height=207"
+  },
+  {
+    "title": "World of Gami",
+    "link": "https://www.worldofgami.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/world-of-gami.svg?height=207"
+  },
+  {
+    "title": "Dynamiq",
+    "link": "https://www.getdynamiq.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $975/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/dynamiq.svg?height=207"
+  },
+  {
+    "title": "Ranklytics",
+    "link": "https://ranklytics.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ranklytics.svg?height=207"
+  },
+  {
+    "title": "Vidscriber",
+    "link": "https://vidscriber.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vidscriber.svg?height=207"
+  },
+  {
+    "title": "Humanizer.org",
+    "link": "https://humanizer.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/humanizer-org.svg?height=207"
+  },
+  {
+    "title": "Sales AI Chatbot by Reply.io",
+    "link": "https://reply.io/ai-chatbot/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $50/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sales-ai-chatbot-by-reply-io.svg?height=207"
+  },
+  {
+    "title": "Planitly",
+    "link": "https://www.planitly.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $6.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/planitly.svg?height=207"
+  },
+  {
+    "title": "Domain Name Generator PRO",
+    "link": "https://www.domainnamegenerator.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/domain-name-generator-pro.svg?height=207"
+  },
+  {
+    "title": "Helpmee",
+    "link": "https://helpmee.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10.86/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/helpmee.svg?height=207"
+  },
+  {
+    "title": "Octolens",
+    "link": "https://octolens.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/octolens.svg?height=207"
+  },
+  {
+    "title": "Farfalle",
+    "link": "https://www.farfalle.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/farfalle.png?height=207"
+  },
+  {
+    "title": "WorkSync",
+    "link": "https://www.worksync.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/worksync.svg?height=207"
+  },
+  {
+    "title": "Merton",
+    "link": "https://www.merton.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/merton.svg?height=207"
+  },
+  {
+    "title": "Trend Video Idea Generator",
+    "link": "https://with-videos.increase-revenue.top/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/trend-video-idea-generator.svg?height=207"
+  },
+  {
+    "title": "Logome AI",
+    "link": "https://www.logome.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/logome-ai.svg?height=207"
+  },
+  {
+    "title": "My Resume Hero",
+    "link": "https://myresumehero.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/my-resume-hero.svg?height=207"
+  },
+  {
+    "title": "Weezly",
+    "link": "https://weezly.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/weezly.svg?height=207"
+  },
+  {
+    "title": "Talentech",
+    "link": "https://talentech.com/products/ai-copilot/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/talentech.svg?height=207"
+  },
+  {
+    "title": "ShortX.ai",
+    "link": "https://shortx.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/shortx-ai.svg?height=207"
+  },
+  {
+    "title": "HR Assistant AI",
+    "link": "https://hrassistantai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $39/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/hr-assistant-ai.svg?height=207"
+  },
+  {
+    "title": "GoodFriend AI",
+    "link": "https://goodfriend.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $7.95/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/goodfriend-ai.png?height=207"
+  },
+  {
+    "title": "Scribe by LEXIGO",
+    "link": "https://lexigo.com/technology/scribe/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/scribe-by-lexigo.svg?height=207"
+  },
+  {
+    "title": "Kopage - White-Label AI Website Builder",
+    "link": "https://www.kopage.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/kopage-white-label-ai-website-builder.png?height=207"
+  },
+  {
+    "title": "BabblerAI",
+    "link": "https://babblerai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $12.95/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/babblerai.svg?height=207"
+  },
+  {
+    "title": "Rubbrband",
+    "link": "https://www.rubbrband.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/rubbrband.svg?height=207"
+  },
+  {
+    "title": "Easy Sticker Maker",
+    "link": "https://easystickermaker.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/easy-sticker-maker.svg?height=207"
+  },
+  {
+    "title": "Wispr Flow",
+    "link": "https://www.flowvoice.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/wispr-flow.svg?height=207"
+  },
+  {
+    "title": "MagiCode",
+    "link": "https://www.magicode.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/magicode.svg?height=207"
+  },
+  {
+    "title": "Rusher",
+    "link": "https://rusher.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/rusher.svg?height=207"
+  },
+  {
+    "title": "AI Detector Bypass",
+    "link": "https://www.bypassai.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-detector-bypass.svg?height=207"
+  },
+  {
+    "title": "Ridvay",
+    "link": "https://www.ridvay.com/home?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ridvay.svg?height=207"
+  },
+  {
+    "title": "Graswald",
+    "link": "https://www.graswald.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/graswald.svg?height=207"
+  },
+  {
+    "title": "Elysa",
+    "link": "https://play.google.com/store/apps/details?id=com.devarshukani.elysa_app&ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/elysa.png?height=207"
+  },
+  {
+    "title": "Mailmerge-JS",
+    "link": "https://www.mailmerge-js.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/mailmerge-js.svg?height=207"
+  },
+  {
+    "title": "Chordio Wireframes",
+    "link": "https://chordio.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/chordio-wireframes.svg?height=207"
+  },
+  {
+    "title": "Indesignify",
+    "link": "https://www.indesignify.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $0.076",
+    "icon": "https://media.theresanaiforthat.com/icons/indesignify.svg?height=207"
+  },
+  {
+    "title": "ChessComScout",
+    "link": "https://chesscomscout.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.99",
+    "icon": "https://media.theresanaiforthat.com/icons/chesscomscout.svg?height=207"
+  },
+  {
+    "title": "TalentoTouch",
+    "link": "https://www.talentotouch.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/talentotouch.svg?height=207"
+  },
+  {
+    "title": "BrainyAI",
+    "link": "https://brainyai.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/brainyai.svg?height=207"
+  },
+  {
+    "title": "Web Transpose",
+    "link": "https://www.webtranspose.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9",
+    "icon": "https://media.theresanaiforthat.com/icons/web-transpose.svg?height=207"
+  },
+  {
+    "title": "LocaleScan",
+    "link": "https://www.localescan.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/localescan.svg?height=207"
+  },
+  {
+    "title": "CoCoClip",
+    "link": "https://cococlip.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/cococlip.svg?height=207"
+  },
+  {
+    "title": "Vison AI",
+    "link": "https://vison.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.77/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vison-ai.svg?height=207"
+  },
+  {
+    "title": "xPage",
+    "link": "https://www.xpage.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $23/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/xpage.svg?height=207"
+  },
+  {
+    "title": "Cokeep",
+    "link": "https://cokeep.me/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cokeep.svg?height=207"
+  },
+  {
+    "title": "Colorizy",
+    "link": "https://colorizy.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/colorizy.svg?height=207"
+  },
+  {
+    "title": "Centa - AI Calorie Counter",
+    "link": "https://centa.world/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10",
+    "icon": "https://media.theresanaiforthat.com/icons/centa-ai-calorie-counter.svg?height=207"
+  },
+  {
+    "title": "SongWord",
+    "link": "https://songword.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/songword.svg?height=207"
+  },
+  {
+    "title": "AfiHunt AI",
+    "link": "https://afihuntai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/afihunt-ai.svg?height=207"
+  },
+  {
+    "title": "Penify.dev",
+    "link": "https://www.penify.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $18/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/penify-dev.svg?height=207"
+  },
+  {
+    "title": "Etenus",
+    "link": "https://www.etenus.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/etenus.svg?height=207"
+  },
+  {
+    "title": "SubEasy.ai",
+    "link": "https://www.subeasy.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/subeasy-ai.svg?height=207"
+  },
+  {
+    "title": "AIndLeads",
+    "link": "https://www.aindleads.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aindleads.svg?height=207"
+  },
+  {
+    "title": "Sypher",
+    "link": "https://sypher.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $599/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sypher.svg?height=207"
+  },
+  {
+    "title": "AnswerGrid",
+    "link": "https://answergrid.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $150/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/answergrid.svg?height=207"
+  },
+  {
+    "title": "WICKDLAB",
+    "link": "https://wickdlab.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/wickdlab.svg?height=207"
+  },
+  {
+    "title": "Cflow",
+    "link": "https://www.cflowapps.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/cflow-1733834042.svg?height=207"
+  },
+  {
+    "title": "Parallel Pages AI",
+    "link": "https://apps.apple.com/us/app/parallel-pages-ai/id6478819441?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1.99",
+    "icon": "https://media.theresanaiforthat.com/icons/parallel-pages-ai.png?height=207"
+  },
+  {
+    "title": "LightFeed",
+    "link": "https://www.lightfeed.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lightfeed.svg?height=207"
+  },
+  {
+    "title": "Lightski",
+    "link": "https://www.lightski.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/lightski.svg?height=207"
+  },
+  {
+    "title": "My AI Story",
+    "link": "https://www.my-aistory.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1.99",
+    "icon": "https://media.theresanaiforthat.com/icons/my-ai-story.svg?height=207"
+  },
+  {
+    "title": "Scoopika",
+    "link": "https://www.scoopika.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $18/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/scoopika.svg?height=207"
+  },
+  {
+    "title": "Options Elevated",
+    "link": "https://optionselevated.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/options-elevated.svg?height=207"
+  },
+  {
+    "title": "Gep",
+    "link": "https://somebay.com/gepchat?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/gep.svg?height=207"
+  },
+  {
+    "title": "Fleak",
+    "link": "https://fleak.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/fleak.svg?height=207"
+  },
+  {
+    "title": "GPTTeams",
+    "link": "https://gptteams.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/gptteams.png?height=207"
+  },
+  {
+    "title": "Beebzi",
+    "link": "https://www.beebzi.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/beebzi.svg?height=207"
+  },
+  {
+    "title": "Hyperfigures",
+    "link": "https://www.hyperfigures.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $44.32/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/hyperfigures.svg?height=207"
+  },
+  {
+    "title": "Intaali",
+    "link": "https://intaali.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/intaali.svg?height=207"
+  },
+  {
+    "title": "uBest",
+    "link": "https://ubest.ae/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ubest.svg?height=207"
+  },
+  {
+    "title": "Getgenerative.ai",
+    "link": "https://www.getgenerative.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/getgenerative-ai.svg?height=207"
+  },
+  {
+    "title": "Lido PDF to Excel",
+    "link": "https://www.lido.app?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lido-pdf-data-extraction.svg?height=207"
+  },
+  {
+    "title": "Socrates - Chat with Docs on Windows or Mac",
+    "link": "https://asksocrates.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/socrates-chat-with-docs-on-windows-or-mac.png?height=207"
+  },
+  {
+    "title": "aiebooks.app",
+    "link": "https://aiebooks.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1",
+    "icon": "https://media.theresanaiforthat.com/icons/aiebooks-app.svg?height=207"
+  },
+  {
+    "title": "Avatar With AI",
+    "link": "https://avatarwithai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $79",
+    "icon": "https://media.theresanaiforthat.com/icons/avatar-with-ai.svg?height=207"
+  },
+  {
+    "title": "LeadHunt AI",
+    "link": "https://leadhuntai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/leadhunt-ai.svg?height=207"
+  },
+  {
+    "title": "Surfsite",
+    "link": "https://surfsite.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/surfsite.svg?height=207"
+  },
+  {
+    "title": "AI Headshot Generator",
+    "link": "https://apps.apple.com/us/app/ai-headshot-generator/id6478139145?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-headshot-generator-1716143581.png?height=207"
+  },
+  {
+    "title": "Magic Bookshelf",
+    "link": "https://apps.apple.com/us/app/magic-bookshelf-ai-stories/id6449464005?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/magic-bookshelf.png?height=207"
+  },
+  {
+    "title": "Therapist Online",
+    "link": "https://www.therapist-online.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/therapist-online.svg?height=207"
+  },
+  {
+    "title": "Hottalks",
+    "link": "https://hottalks.ai/?utm_source=theresanaiforthat&utm_medium=paid&utm_campaign=listing&utm_content=theresanaiforthat",
+    "price": "Free + from $5.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/hottalks.svg?height=207"
+  },
+  {
+    "title": "Videofast",
+    "link": "https://www.videofast.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/videofast.svg?height=207"
+  },
+  {
+    "title": "ProfilePhoto",
+    "link": "https://profilephoto.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19",
+    "icon": "https://media.theresanaiforthat.com/icons/profilephoto.svg?height=207"
+  },
+  {
+    "title": "Mangaraw AI",
+    "link": "https://mangaraw.ing/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mangaraw-ai.svg?height=207"
+  },
+  {
+    "title": "PokaMind",
+    "link": "https://app.pokamind.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $69/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/pokamind.png?height=207"
+  },
+  {
+    "title": "inncivio",
+    "link": "https://www.inncivio.com/?utm_source=TAAFT&utm_medium=CPC&utm_campaign=inncivio+TAAFT+tracking",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/inncivio.svg?height=207"
+  },
+  {
+    "title": "Fusion Compose",
+    "link": "https://fusioncompose.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/fusion-compose.svg?height=207"
+  },
+  {
+    "title": "SPRKR",
+    "link": "https://www.sprkr.it/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $79/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sprkr.svg?height=207"
+  },
+  {
+    "title": "Noam",
+    "link": "https://noam.tools/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1.56/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/noam.svg?height=207"
+  },
+  {
+    "title": "sclof",
+    "link": "https://www.sclof.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/sclof.svg?height=207"
+  },
+  {
+    "title": "Lookie",
+    "link": "https://www.lookie.so/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.56/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/lookie.svg?height=207"
+  },
+  {
+    "title": "HitPaw Edimakor",
+    "link": "https://www.hitpaw.com/video-editor.html?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.95/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/hitpaw-edimakor.svg?height=207"
+  },
+  {
+    "title": "Page Writer Pro",
+    "link": "https://www.pagewriter.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $6/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/page-writer-pro.svg?height=207"
+  },
+  {
+    "title": "AI Manga Translator",
+    "link": "https://aimangatranslator.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-manga-translator.svg?height=207"
+  },
+  {
+    "title": "Drafting Wizard",
+    "link": "https://legalpad.ai/user/wizard?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $50/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/drafting-wizard.svg?height=207"
+  },
+  {
+    "title": "Ongkanon",
+    "link": "https://ongkanon.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ongkanon.svg?height=207"
+  },
+  {
+    "title": "JetSnaps",
+    "link": "https://jetsnaps.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/jetsnaps.svg?height=207"
+  },
+  {
+    "title": "Vocode",
+    "link": "https://www.vocode.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vocode.svg?height=207"
+  },
+  {
+    "title": "Thrive Together",
+    "link": "https://www.thrivetogether.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/thrive-together.svg?height=207"
+  },
+  {
+    "title": "Contxt",
+    "link": "https://www.contxt-app.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/contxt.svg?height=207"
+  },
+  {
+    "title": "Brick.Photos",
+    "link": "https://brick.photos/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/brick-photos.svg?height=207"
+  },
+  {
+    "title": "CreateAiCourse",
+    "link": "https://createaicourse.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/createaicourse.png?height=207"
+  },
+  {
+    "title": "Devra",
+    "link": "https://devra.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $49.95/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/devra.png?height=207"
+  },
+  {
+    "title": "RegexMy",
+    "link": "https://regexmy.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $50",
+    "icon": "https://media.theresanaiforthat.com/icons/regexmy.svg?height=207"
+  },
+  {
+    "title": "PDF Flex",
+    "link": "https://pdfflex.com/ai-chat-with-pdf?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/pdf-flex.svg?height=207"
+  },
+  {
+    "title": "Atlas.org",
+    "link": "https://www.atlas.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/atlas-org.svg?height=207"
+  },
+  {
+    "title": "ChatViz",
+    "link": "https://chatviz.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/chatviz.svg?height=207"
+  },
+  {
+    "title": "UPDF AI Assistant",
+    "link": "https://updf.com/updf-ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $32.99/y...",
+    "icon": "https://media.theresanaiforthat.com/icons/updf-ai-assistant.svg?height=207"
+  },
+  {
+    "title": "Voicelark",
+    "link": "https://voicelark.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/voicelark.svg?height=207"
+  },
+  {
+    "title": "Question AI.io",
+    "link": "https://questionai.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/question-ai-io.svg?height=207"
+  },
+  {
+    "title": "WP AI Text Summarizer",
+    "link": "https://www.aisummary.link/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/wp-ai-text-summarizer.svg?height=207"
+  },
+  {
+    "title": "FunFun",
+    "link": "https://www.funfun.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/funfun.svg?height=207"
+  },
+  {
+    "title": "AdSpawn",
+    "link": "https://adspawn.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $54.10/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/adspawn.svg?height=207"
+  },
+  {
+    "title": "My Training Plan",
+    "link": "https://mytrainingplan.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $7.99",
+    "icon": "https://media.theresanaiforthat.com/icons/my-training-plan.svg?height=207"
+  },
+  {
+    "title": "StoryTok",
+    "link": "https://storytok.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $0.70",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "Cubox",
+    "link": "https://chromewebstore.google.com/detail/cubox/bflmgpechpeohjfomgfdkkfcbhfcjohl?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cubox.png?height=207"
+  },
+  {
+    "title": "Speaq.ai",
+    "link": "https://speaq.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/speaq-ai.svg?height=207"
+  },
+  {
+    "title": "Freepik Upscaler",
+    "link": "https://www.freepik.com/ai/image-upscaler?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $18.14/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/freepik-upscaler.svg?height=207"
+  },
+  {
+    "title": "ThinkerNotes",
+    "link": "https://thinkernotes.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/thinkernotes.svg?height=207"
+  },
+  {
+    "title": "CreateINK",
+    "link": "https://apps.apple.com/us/app/createink-ai-tattoo-generator/id6479847530?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $34.99/y...",
+    "icon": "https://media.theresanaiforthat.com/icons/createink.png?height=207"
+  },
+  {
+    "title": "Keepy AI",
+    "link": "https://keepy.us/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/keepy-ai.png?height=207"
+  },
+  {
+    "title": "CVGist",
+    "link": "https://cvgist.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $3",
+    "icon": "https://media.theresanaiforthat.com/icons/cvgist.svg?height=207"
+  },
+  {
+    "title": "MyBot.Chat",
+    "link": "https://mybot.chat/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mybot-chat.svg?height=207"
+  },
+  {
+    "title": "TakeHeadshot",
+    "link": "https://takeheadshot.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $12.9",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "AIUI",
+    "link": "https://www.aiui.me/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aiui.svg?height=207"
+  },
+  {
+    "title": "Cyranote",
+    "link": "https://www.cyranote.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/cyranote.svg?height=207"
+  },
+  {
+    "title": "AiReelGenerator",
+    "link": "https://aireelgenerator.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aireelgenerator.svg?height=207"
+  },
+  {
+    "title": "Cubby",
+    "link": "https://cubby.nyc/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/cubby.svg?height=207"
+  },
+  {
+    "title": "Relationship 2.0",
+    "link": "https://www.relationship2.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $49",
+    "icon": "https://media.theresanaiforthat.com/icons/relationship-2-0.svg?height=207"
+  },
+  {
+    "title": "Pic2Game AI",
+    "link": "https://pic2game.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/pic2game-ai.svg?height=207"
+  },
+  {
+    "title": "StarVoice",
+    "link": "https://www.starvoiceai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.97/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/starvoice.svg?height=207"
+  },
+  {
+    "title": "LawBotica",
+    "link": "https://lawbotica.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/lawbotica.svg?height=207"
+  },
+  {
+    "title": "LlamaGen",
+    "link": "https://llamagen.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $6/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/llamagen.svg?height=207"
+  },
+  {
+    "title": "Viva AI",
+    "link": "https://vivago.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/viva-ai.svg?height=207"
+  },
+  {
+    "title": "InterviewPrep.com",
+    "link": "https://alinterviewprep.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/interviewprep-com.svg?height=207"
+  },
+  {
+    "title": "Granola",
+    "link": "https://www.granola.so/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/granola.png?height=207"
+  },
+  {
+    "title": "Squire AI",
+    "link": "https://www.squire.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "Video To Tweet",
+    "link": "https://videototweet.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.99",
+    "icon": "https://media.theresanaiforthat.com/icons/video-to-tweet.svg?height=207"
+  },
+  {
+    "title": "Exploding Insights",
+    "link": "https://explodinginsights.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $147",
+    "icon": "https://media.theresanaiforthat.com/icons/exploding-insights.svg?height=207"
+  },
+  {
+    "title": "KnoWhiz",
+    "link": "https://www.knowhiz.us/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/knowhiz.svg?height=207"
+  },
+  {
+    "title": "SpeakHints",
+    "link": "https://www.speakhints.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/speakhints.svg?height=207"
+  },
+  {
+    "title": "Celvox",
+    "link": "https://celvox.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/celvox.svg?height=207"
+  },
+  {
+    "title": "Flowtest",
+    "link": "https://flowtest.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $370/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/flowtest.svg?height=207"
+  },
+  {
+    "title": "Immersity AI",
+    "link": "https://www.immersity.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/immersity-ai.svg?height=207"
+  },
+  {
+    "title": "Jelled",
+    "link": "https://jelled.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $30/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/jelled.svg?height=207"
+  },
+  {
+    "title": "qode.world",
+    "link": "https://qode.world/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "What The Product",
+    "link": "https://www.whattheproduct.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/what-the-product.svg?height=207"
+  },
+  {
+    "title": "JotMe",
+    "link": "https://www.jotme.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/jotme.svg?height=207"
+  },
+  {
+    "title": "MinusX",
+    "link": "https://minusx.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/minusx.svg?height=207"
+  },
+  {
+    "title": "Read It",
+    "link": "https://www.readit.bot/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/read-it.svg?height=207"
+  },
+  {
+    "title": "Todo AI",
+    "link": "https://apps.apple.com/us/app/todo-ai-convert-idea-to-tasks/id6478566943?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/todo-ai.png?height=207"
+  },
+  {
+    "title": "ragobble",
+    "link": "https://ragobble.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/ragobble.svg?height=207"
+  },
+  {
+    "title": "Face Swap by BasedLabs",
+    "link": "https://www.basedlabs.ai/apps/face-swap?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/face-swap-by-basedlabs.svg?height=207"
+  },
+  {
+    "title": "Kudos - Smart Wallet",
+    "link": "https://www.joinkudos.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/kudos-smart-wallet.png?height=207"
+  },
+  {
+    "title": "Shorts Faceless",
+    "link": "https://www.shortsfaceless.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/shorts-faceless.svg?height=207"
+  },
+  {
+    "title": "Photobooth AI",
+    "link": "https://photobooth-ai.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.9",
+    "icon": "https://media.theresanaiforthat.com/icons/photobooth-ai.png?height=207"
+  },
+  {
+    "title": "Astrocade",
+    "link": "https://www.astrocade.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/astrocade.svg?height=207"
+  },
+  {
+    "title": "Clicknow",
+    "link": "https://clicknow.ai",
+    "price": "Free + from $12",
+    "icon": "https://media.theresanaiforthat.com/icons/xylect.svg?height=207"
+  },
+  {
+    "title": "Antemis",
+    "link": "https://www.antemis.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/antemis.svg?height=207"
+  },
+  {
+    "title": "AI Photoshoot - Aiphoria.io",
+    "link": "https://app.aiphoria.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-photoshoot-aiphoria-io.svg?height=207"
+  },
+  {
+    "title": "bioloGPT",
+    "link": "https://biologpt.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/biologpt.svg?height=207"
+  },
+  {
+    "title": "GetAudify",
+    "link": "https://getaudify.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $0.6",
+    "icon": "https://media.theresanaiforthat.com/icons/getaudify.svg?height=207"
+  },
+  {
+    "title": "Quidget",
+    "link": "https://quidget.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/quidget.svg?height=207"
+  },
+  {
+    "title": "Singulatron",
+    "link": "https://singulatron.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/singulatron-1734437275.svg?height=207"
+  },
+  {
+    "title": "SELPHO",
+    "link": "https://selpho.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/selpho.svg?height=207"
+  },
+  {
+    "title": "AgentProd",
+    "link": "https://agentprod.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/agentprod.svg?height=207"
+  },
+  {
+    "title": "Dende Quiz Maker",
+    "link": "https://dende.ai/ai-quiz-maker-from-pdf/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/dende-quiz-maker.svg?height=207"
+  },
+  {
+    "title": "Nabla Mind",
+    "link": "https://www.nablamind.com/ai-logo-generator?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/nabla-mind.svg?height=207"
+  },
+  {
+    "title": "Weavel",
+    "link": "https://weavel.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/weavel.svg?height=207"
+  },
+  {
+    "title": "Buena.ai",
+    "link": "https://www.buena.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $750/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/buena-ai.svg?height=207"
+  },
+  {
+    "title": "Recipe Maker",
+    "link": "https://www.freerecipemaker.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/recipe-maker.svg?height=207"
+  },
+  {
+    "title": "Room Genius",
+    "link": "https://room-genius-xi.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3",
+    "icon": "https://media.theresanaiforthat.com/icons/room-genius.svg?height=207"
+  },
+  {
+    "title": "MindTrainer from Clairity Healing",
+    "link": "https://www.mindtrainer.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/mindtrainer-from-clairity-healing.svg?height=207"
+  },
+  {
+    "title": "Ostendo  Capture Beautiful YouTube Screenshots",
+    "link": "https://chromewebstore.google.com/detail/ostendo-%e2%80%93-capture-beautif/bdfkognhpfgcoafcncpdgpjlbhoigpil?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ostendo-capture-beautiful-youtube-screenshots.png?height=207"
+  },
+  {
+    "title": "Voxpad",
+    "link": "https://www.voxpad.net/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/voxpad.svg?height=207"
+  },
+  {
+    "title": "EasyAs123",
+    "link": "https://apps.apple.com/us/app/easyas123-whiz-kids-ai/id6473291891?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/easyas123.png?height=207"
+  },
+  {
+    "title": "Raftwise",
+    "link": "https://chromewebstore.google.com/detail/raftwise/fcffekbnfcfdemeekijbbmgmkognnmkd?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/raftwise.png?height=207"
+  },
+  {
+    "title": "Online AI Baby Generator",
+    "link": "https://ai-babygenerator.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1.99",
+    "icon": "https://media.theresanaiforthat.com/icons/online-ai-baby-generator.svg?height=207"
+  },
+  {
+    "title": "Galiads",
+    "link": "https://galiads.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $2.25",
+    "icon": "https://media.theresanaiforthat.com/icons/galiads.svg?height=207"
+  },
+  {
+    "title": "AI Pitch Deck Generator",
+    "link": "https://deck.papermark.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-pitch-deck-generator.svg?height=207"
+  },
+  {
+    "title": "Ghostly Chat",
+    "link": "https://www.ghostly.chat/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ghostly-chat.svg?height=207"
+  },
+  {
+    "title": "ProJourney AI",
+    "link": "https://www.projourney.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/projourney-ai.svg?height=207"
+  },
+  {
+    "title": "ReMind",
+    "link": "https://www.recallmemory.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/remind.svg?height=207"
+  },
+  {
+    "title": "Ivee",
+    "link": "https://ivee.so/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/ivee.svg?height=207"
+  },
+  {
+    "title": "Auto Streamer",
+    "link": "https://www.autostreamer.live/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $100",
+    "icon": "https://media.theresanaiforthat.com/icons/auto-streamer.svg?height=207"
+  },
+  {
+    "title": "BodyMax AI",
+    "link": "https://www.bodymax.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1.27",
+    "icon": "https://media.theresanaiforthat.com/icons/bodymax-ai.svg?height=207"
+  },
+  {
+    "title": "PalettePlay",
+    "link": "https://paletteplay.art/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/paletteplay.svg?height=207"
+  },
+  {
+    "title": "AI Logo Makerr",
+    "link": "https://ailogomakerr.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $29",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-logo-makerr.svg?height=207"
+  },
+  {
+    "title": "ParaphraseX",
+    "link": "https://www.paraphrasex.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/paraphrasex.svg?height=207"
+  },
+  {
+    "title": "Vemo: AI Note Taker",
+    "link": "https://apps.apple.com/us/app/vemo-ai-note-taker/id6458929422?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99",
+    "icon": "https://media.theresanaiforthat.com/icons/vemo-ai-note-taker.png?height=207"
+  },
+  {
+    "title": "LangSaaS",
+    "link": "https://langsaas.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/langsaas.svg?height=207"
+  },
+  {
+    "title": "JobSynergy",
+    "link": "https://www.jobsynergy.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/jobsynergy.svg?height=207"
+  },
+  {
+    "title": "VideoMaker.me",
+    "link": "https://videomaker.me/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $7.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/videomaker-me.svg?height=207"
+  },
+  {
+    "title": "MagicShot",
+    "link": "https://magicshot.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49.99/y...",
+    "icon": "https://media.theresanaiforthat.com/icons/magicshot.svg?height=207"
+  },
+  {
+    "title": "Tubly",
+    "link": "https://tubly.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/tubly.png?height=207"
+  },
+  {
+    "title": "Engage by CloudResearch",
+    "link": "https://www.cloudresearch.com/products/engage/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/engage-by-cloudresearch.png?height=207"
+  },
+  {
+    "title": "Rap Generator",
+    "link": "https://rapgenerator.net/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.9",
+    "icon": "https://media.theresanaiforthat.com/icons/rap-generator.svg?height=207"
+  },
+  {
+    "title": "LMAO",
+    "link": "https://www.lmaoai.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/lmao.svg?height=207"
+  },
+  {
+    "title": "Mwalimu.io",
+    "link": "https://mwalimu.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5",
+    "icon": "https://media.theresanaiforthat.com/icons/mwalimu-io.png?height=207"
+  },
+  {
+    "title": "ANDRE",
+    "link": "https://www.andre.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/andre.svg?height=207"
+  },
+  {
+    "title": "Clip Remix",
+    "link": "https://clipremix.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5",
+    "icon": "https://media.theresanaiforthat.com/icons/clip-remix.svg?height=207"
+  },
+  {
+    "title": "RewriteWithAI",
+    "link": "https://www.rewritewith.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.75/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/rewritewithai.svg?height=207"
+  },
+  {
+    "title": "Publish7",
+    "link": "https://publish7.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $13",
+    "icon": "https://media.theresanaiforthat.com/icons/publish7.png?height=207"
+  },
+  {
+    "title": "Quick Shorts",
+    "link": "https://quickshorts.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/quick-shorts.svg?height=207"
+  },
+  {
+    "title": "Upmetrics AI",
+    "link": "https://upmetrics.co/features/ai-business-plan-generator?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $7/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/upmetrics-ai.png?height=207"
+  },
+  {
+    "title": "Inchart",
+    "link": "https://inchart.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/inchart.svg?height=207"
+  },
+  {
+    "title": "TwitterCut",
+    "link": "https://www.twittercut.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "CrossQuery",
+    "link": "https://chromewebstore.google.com/detail/crossquery/bjafchghcaffbfmdkhkmefppcabcbinl?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/crossquery.png?height=207"
+  },
+  {
+    "title": "MindpoolAI",
+    "link": "https://mindpoolai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mindpoolai.svg?height=207"
+  },
+  {
+    "title": "Betina",
+    "link": "https://www.askbetina.com/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "ATTITUDE - AI Dating Assistant",
+    "link": "https://apps.apple.com/us/app/attitude-ai-dating-assistant/id6480233912?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99",
+    "icon": "https://media.theresanaiforthat.com/icons/attitude-ai-dating-assistant.png?height=207"
+  },
+  {
+    "title": "Wizad",
+    "link": "https://wizad.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5.89",
+    "icon": "https://media.theresanaiforthat.com/icons/wizad.svg?height=207"
+  },
+  {
+    "title": "Studygenie",
+    "link": "https://studygenie.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $13.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/studygenie.svg?height=207"
+  },
+  {
+    "title": "Barbie AI Generator",
+    "link": "https://barbieaigenerator.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1",
+    "icon": "https://media.theresanaiforthat.com/icons/barbie-ai-generator.svg?height=207"
+  },
+  {
+    "title": "Fleso",
+    "link": "https://www.fleso.xyz/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/fleso.svg?height=207"
+  },
+  {
+    "title": "reap video",
+    "link": "https://reap.video/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/reap-video.svg?height=207"
+  },
+  {
+    "title": "Bypass AI Humanizer",
+    "link": "https://bypassai.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.14/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/bypass-ai-humanizer.svg?height=207"
+  },
+  {
+    "title": "Perspective",
+    "link": "https://perspective.technology/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/perspective.svg?height=207"
+  },
+  {
+    "title": "Competitor Research",
+    "link": "https://www.competitoresearch.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $79",
+    "icon": "https://media.theresanaiforthat.com/icons/competitor-research.svg?height=207"
+  },
+  {
+    "title": "Iyiai",
+    "link": "https://www.iyiai.com/en-US?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/iyiai.svg?height=207"
+  },
+  {
+    "title": "AI Hairstyle Changer",
+    "link": "https://womenhairs.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-hairstyle-changer.svg?height=207"
+  },
+  {
+    "title": "Twitdget",
+    "link": "https://twitdget.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $14.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/twitdget.svg?height=207"
+  },
+  {
+    "title": "30characters",
+    "link": "https://30chars.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8.33/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/30characters.svg?height=207"
+  },
+  {
+    "title": "Summary AI",
+    "link": "https://www.whatisthispageabout.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/summary-ai.svg?height=207"
+  },
+  {
+    "title": "Cleaveer",
+    "link": "https://www.cleaveerai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/cleaveer.svg?height=207"
+  },
+  {
+    "title": "Snapcut",
+    "link": "https://www.snapcut.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $11.33/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/snapcut.svg?height=207"
+  },
+  {
+    "title": "Grant Orb",
+    "link": "https://grantorb.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/grant-orb.svg?height=207"
+  },
+  {
+    "title": "ChatMatrix",
+    "link": "https://chatmatrix.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/chatmatrix.svg?height=207"
+  },
+  {
+    "title": "Bella Sales",
+    "link": "https://www.bellasales.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $119/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/bella-sales.svg?height=207"
+  },
+  {
+    "title": "Videotowords AI",
+    "link": "https://www.videotowords.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16.58/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/videotowords-ai.svg?height=207"
+  },
+  {
+    "title": "Samantha by Zemuria",
+    "link": "https://mysamantha.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/samantha-by-zemuria.svg?height=207"
+  },
+  {
+    "title": "Talking Tree",
+    "link": "https://www.talkingtree.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $19.99/mo",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "OpenCraftAI",
+    "link": "https://opencraftai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/opencraftai.svg?height=207"
+  },
+  {
+    "title": "VoiceOwl",
+    "link": "https://voiceowl.ai/bfsi-automation/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/voiceowl.svg?height=207"
+  },
+  {
+    "title": "AutoCodeWizard",
+    "link": "https://autocodewizard.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/autocodewizard.svg?height=207"
+  },
+  {
+    "title": "AIReception - Hyperrealistic Virtual Receptionist",
+    "link": "https://aireception.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aireception-hyperrealistic-virtual-receptionist.png?height=207"
+  },
+  {
+    "title": "Freepik Background Remover",
+    "link": "https://www.freepik.com/ai/background-remover?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/freepik-background-remover.svg?height=207"
+  },
+  {
+    "title": "BityClips",
+    "link": "https://www.bityclips.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/bityclips.svg?height=207"
+  },
+  {
+    "title": "Course.im",
+    "link": "https://course.im/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/course-im.svg?height=207"
+  },
+  {
+    "title": "Aethera",
+    "link": "https://aethera.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aethera.png?height=207"
+  },
+  {
+    "title": "Bleepify",
+    "link": "https://bleepify.me/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/bleepify.svg?height=207"
+  },
+  {
+    "title": "Azna AI",
+    "link": "https://www.aznaai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/azna-ai.svg?height=207"
+  },
+  {
+    "title": "Datagini",
+    "link": "https://www.datagini.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $15/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/datagini.svg?height=207"
+  },
+  {
+    "title": "BuddyAI",
+    "link": "https://buddyai.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/buddyai.svg?height=207"
+  },
+  {
+    "title": "Etereel",
+    "link": "https://etereel.pages.dev/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99",
+    "icon": "https://media.theresanaiforthat.com/icons/etereel.svg?height=207"
+  },
+  {
+    "title": "PostCraftAI",
+    "link": "https://postcraftai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/postcraftai.svg?height=207"
+  },
+  {
+    "title": "Airy",
+    "link": "https://apps.apple.com/us/app/airy-ai-powered-smart-journal/id6477373044?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/airy.png?height=207"
+  },
+  {
+    "title": "TaleStitch",
+    "link": "https://play.google.com/store/apps/details?id=com.storyflux.app&ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/talestitch.png?height=207"
+  },
+  {
+    "title": "ModerateKit",
+    "link": "https://www.moderatekit.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $501",
+    "icon": "https://media.theresanaiforthat.com/icons/moderatekit.svg?height=207"
+  },
+  {
+    "title": "Aureka",
+    "link": "https://www.aureka.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/aureka.svg?height=207"
+  },
+  {
+    "title": "Welcome Compass",
+    "link": "https://www.welcomecompass.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16.50/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/welcome-compass.svg?height=207"
+  },
+  {
+    "title": "Lucere Datascience",
+    "link": "https://datascience.lucere.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/lucere-datascience.svg?height=207"
+  },
+  {
+    "title": "Decoritt",
+    "link": "https://decoritt.wondershare.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/decoritt.svg?height=207"
+  },
+  {
+    "title": "AskFast",
+    "link": "https://www.askfa.st/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/askfast.svg?height=207"
+  },
+  {
+    "title": "Vision GPT",
+    "link": "https://visiongpt.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/vision-gpt.svg?height=207"
+  },
+  {
+    "title": "Vagabond",
+    "link": "https://vgbd.carrd.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/vagabond.svg?height=207"
+  },
+  {
+    "title": "DataLab",
+    "link": "https://www.datacamp.com/datalab/home?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/datalab.svg?height=207"
+  },
+  {
+    "title": "BetterDays",
+    "link": "https://betterdaysedu.com/homepage?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/betterdays.svg?height=207"
+  },
+  {
+    "title": "AI CodeMate",
+    "link": "https://codemate.didthis.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-codemate.svg?height=207"
+  },
+  {
+    "title": "SupaClip Pro",
+    "link": "https://www.supaclip.pro/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $17/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/supaclip-pro.svg?height=207"
+  },
+  {
+    "title": "AI Notebook App",
+    "link": "https://ainotebook.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $69.99/y...",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-notebook-app.png?height=207"
+  },
+  {
+    "title": "Visible.vc",
+    "link": "https://visible.vc/ai-inbox/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/visible-vc.svg?height=207"
+  },
+  {
+    "title": "XX.AI",
+    "link": "https://www.hixx.ai/index/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/xx-ai.svg?height=207"
+  },
+  {
+    "title": "WikeAI",
+    "link": "https://wike.ai/en-US/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "Beatwave",
+    "link": "https://beatwaveapp.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $37",
+    "icon": "https://media.theresanaiforthat.com/icons/beatwave.svg?height=207"
+  },
+  {
+    "title": "NoteVocal",
+    "link": "https://www.notevocal.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/notevocal.svg?height=207"
+  },
+  {
+    "title": "Imagine Stories",
+    "link": "https://imaginestories.pl/en/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/imagine-stories.svg?height=207"
+  },
+  {
+    "title": "Waveform",
+    "link": "https://waveform.live/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/waveform.svg?height=207"
+  },
+  {
+    "title": "Manyreach",
+    "link": "https://www.manyreach.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $39",
+    "icon": "https://media.theresanaiforthat.com/icons/manyreach.png?height=207"
+  },
+  {
+    "title": "Chatflot AI Chatbot",
+    "link": "https://chatflot.com/en/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/chatflot-ai-chatbot.svg?height=207"
+  },
+  {
+    "title": "Thumos Care",
+    "link": "https://www.thumoscare.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/thumos-care.svg?height=207"
+  },
+  {
+    "title": "DrawMy.Pet",
+    "link": "https://drawmy.pet/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $7.99",
+    "icon": "https://media.theresanaiforthat.com/icons/drawmy-pet.svg?height=207"
+  },
+  {
+    "title": "VHire",
+    "link": "https://vhire.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $200/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/vhire.svg?height=207"
+  },
+  {
+    "title": "Profundo",
+    "link": "https://www.profundo.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/profundo.svg?height=207"
+  },
+  {
+    "title": "Displayr AI",
+    "link": "https://www.displayr.com/displayr-ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $40/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/displayr-ai.png?height=207"
+  },
+  {
+    "title": "Conversion Blitz",
+    "link": "https://conversionblitz.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/conversion-blitz.svg?height=207"
+  },
+  {
+    "title": "Crowdbotics",
+    "link": "https://crowdbotics.com/prd-ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/crowdbotics.png?height=207"
+  },
+  {
+    "title": "AutoJobs",
+    "link": "https://autojobs.site/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5.35/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/autojobs.png?height=207"
+  },
+  {
+    "title": "ViableView",
+    "link": "https://www.viableview.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/viableview.svg?height=207"
+  },
+  {
+    "title": "Track Calories",
+    "link": "https://track-calories.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5.63/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/track-calories.svg?height=207"
+  },
+  {
+    "title": "AISong.Fun",
+    "link": "https://aisong.fun/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aisong-fun.svg?height=207"
+  },
+  {
+    "title": "Low KD Finder",
+    "link": "https://www.lowkdfinder.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/low-kd-finder.svg?height=207"
+  },
+  {
+    "title": "Microsoft Copilot on Telegram",
+    "link": "https://t.me/CopilotOfficialBot?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/microsoft-copilot-on-telegram.png?height=207"
+  },
+  {
+    "title": "Sticker Maker AI for Whatsapp",
+    "link": "https://apps.apple.com/tr/app/sticker-maker-ai-for-whatsapp/id6499468214?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.65/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/sticker-maker-ai-for-whatsapp.png?height=207"
+  },
+  {
+    "title": "POTO AI",
+    "link": "https://poto.ai/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9",
+    "icon": "https://media.theresanaiforthat.com/icons/poto-ai.svg?height=207"
+  },
+  {
+    "title": "Trip Tunes",
+    "link": "https://apps.apple.com/us/app/trip-tunes-roadtrip-playlists/id6467522749?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $0.99",
+    "icon": "https://media.theresanaiforthat.com/icons/trip-tunes.png?height=207"
+  },
+  {
+    "title": "Airy",
+    "link": "https://www.tryairy.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/airy-1718365858.svg?height=207"
+  },
+  {
+    "title": "Book Bites",
+    "link": "https://bookbites.framer.website/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $24.99",
+    "icon": "https://media.theresanaiforthat.com/icons/book-bites.svg?height=207"
+  },
+  {
+    "title": "OpinionStage",
+    "link": "https://www.opinionstage.com/ai?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/opinionstage.svg?height=207"
+  },
+  {
+    "title": "Forloop",
+    "link": "https://www.forloop.ai/no-code-platform-for-web-scraping-and-data-automation?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/forloop.svg?height=207"
+  },
+  {
+    "title": "Financial Flow",
+    "link": "https://financialflow.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/financial-flow.svg?height=207"
+  },
+  {
+    "title": "Wordze",
+    "link": "https://wordze.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/wordze.svg?height=207"
+  },
+  {
+    "title": "Orum",
+    "link": "https://www.orum.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5000/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/orum.png?height=207"
+  },
+  {
+    "title": "FidForward",
+    "link": "https://fidforward.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/fidforward.svg?height=207"
+  },
+  {
+    "title": "CopyFrog",
+    "link": "https://copyfrog.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/copyfrog.svg?height=207"
+  },
+  {
+    "title": "Dubbie",
+    "link": "https://dubbie.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/dubbie.svg?height=207"
+  },
+  {
+    "title": "Journey AI",
+    "link": "https://www.yourjourney.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/journey-ai.svg?height=207"
+  },
+  {
+    "title": "AI Detector Write",
+    "link": "https://aidetectorwriter.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-detector-write.svg?height=207"
+  },
+  {
+    "title": "Voam",
+    "link": "https://www.voam.io/home?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/voam.svg?height=207"
+  },
+  {
+    "title": "DueDeal",
+    "link": "https://www.duedeal.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/duedeal.svg?height=207"
+  },
+  {
+    "title": "SCiMatch",
+    "link": "https://scimatch.com/ai-dating-coach/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/scimatch.svg?height=207"
+  },
+  {
+    "title": "Ren AI | Leadership & Accountability Platform",
+    "link": "https://rencoach.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ren-ai-leadership-coach.svg?height=207"
+  },
+  {
+    "title": "TalkTonic AI",
+    "link": "https://www.talktonic.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/talktonic-ai.png?height=207"
+  },
+  {
+    "title": "Kroto One",
+    "link": "https://www.kroto.one/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $40/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/kroto-one.svg?height=207"
+  },
+  {
+    "title": "SnapID",
+    "link": "https://snapid.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $1.49",
+    "icon": "https://media.theresanaiforthat.com/icons/snapid.svg?height=207"
+  },
+  {
+    "title": "Egg3",
+    "link": "https://egg3.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/egg3.svg?height=207"
+  },
+  {
+    "title": "Eloquence",
+    "link": "https://www.eloquenceapp.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/eloquence.svg?height=207"
+  },
+  {
+    "title": "RelatedAI",
+    "link": "https://relatedai.chat/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9",
+    "icon": "https://media.theresanaiforthat.com/icons/relatedai.svg?height=207"
+  },
+  {
+    "title": "tak.chat",
+    "link": "https://tak.chat/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9",
+    "icon": "https://media.theresanaiforthat.com/icons/tak-chat.svg?height=207"
+  },
+  {
+    "title": "Facebook Post Scheduler",
+    "link": "https://facebookpostscheduler.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $44.95",
+    "icon": "https://media.theresanaiforthat.com/icons/facebook-post-scheduler.svg?height=207"
+  },
+  {
+    "title": "FaviCraft",
+    "link": "https://favicraft.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/favicraft.svg?height=207"
+  },
+  {
+    "title": "Peek",
+    "link": "https://www.gopeek.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/peek.svg?height=207"
+  },
+  {
+    "title": "Ocu AI",
+    "link": "https://www.ocu.diplomade.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ocu-ai.svg?height=207"
+  },
+  {
+    "title": "hostAI",
+    "link": "https://gethostai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/hostai-1722160986.svg?height=207"
+  },
+  {
+    "title": "Triple Session - AI Coach",
+    "link": "https://triplesession.com/ai-coach?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $25/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/triple-session-ai-coach.svg?height=207"
+  },
+  {
+    "title": "AssistED AI",
+    "link": "https://www.getassisted.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/assisted-ai.svg?height=207"
+  },
+  {
+    "title": "HayaiLearn",
+    "link": "https://www.hayailearn.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/hayailearn.png?height=207"
+  },
+  {
+    "title": "Blinkfeed",
+    "link": "https://blinkfeed.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/blinkfeed.svg?height=207"
+  },
+  {
+    "title": "ProdOps",
+    "link": "https://prodops.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $50/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/prodops.svg?height=207"
+  },
+  {
+    "title": "TripX AI",
+    "link": "https://tripxai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/tripx-ai.svg?height=207"
+  },
+  {
+    "title": "SmarterFolder",
+    "link": "https://smarterfolder.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/smarterfolder.svg?height=207"
+  },
+  {
+    "title": "Lawformer",
+    "link": "https://lawformer.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/lawformer.svg?height=207"
+  },
+  {
+    "title": "Depthforge",
+    "link": "https://apps.apple.com/us/app/depthforge/id6499144037?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/depthforge.png?height=207"
+  },
+  {
+    "title": "Foku",
+    "link": "https://foku.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/foku.svg?height=207"
+  },
+  {
+    "title": "AnkAI",
+    "link": "https://ankai.co/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $12.91/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/ankai.svg?height=207"
+  },
+  {
+    "title": "Gist",
+    "link": "https://gist-app.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $2.99",
+    "icon": "https://media.theresanaiforthat.com/icons/gist.svg?height=207"
+  },
+  {
+    "title": "CookFast",
+    "link": "https://www.cookfast.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $4.49/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/cookfast.svg?height=207"
+  },
+  {
+    "title": "LearningStoryPage",
+    "link": "https://www.learningstory.co.uk/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/learningstorypage.svg?height=207"
+  },
+  {
+    "title": "Sumr",
+    "link": "https://sumr.1ar.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $0.0015",
+    "icon": "https://media.theresanaiforthat.com/icons/sumr.png?height=207"
+  },
+  {
+    "title": "Mapify",
+    "link": "https://mapify.so/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $5.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/mapify.svg?height=207"
+  },
+  {
+    "title": "Voicer",
+    "link": "https://chromewebstore.google.com/detail/voicer/bjmpceolmcffbcilhbcdemohblckpbko?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/voicer.png?height=207"
+  },
+  {
+    "title": "Viinyx AI",
+    "link": "https://www.viinyx.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $80",
+    "icon": "https://media.theresanaiforthat.com/icons/viinyx-ai.svg?height=207"
+  },
+  {
+    "title": "Rhesis AI",
+    "link": "https://www.rhesis.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/rhesis-ai.svg?height=207"
+  },
+  {
+    "title": "Alter",
+    "link": "https://alterhq.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $240/yr",
+    "icon": "https://media.theresanaiforthat.com/icons/alter.svg?height=207"
+  },
+  {
+    "title": "Sully",
+    "link": "https://www.sully.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/sully.svg?height=207"
+  },
+  {
+    "title": "Awesome Repositories",
+    "link": "https://www.awesome-repositories.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/awesome-repositories.svg?height=207"
+  },
+  {
+    "title": "COUNT",
+    "link": "https://www.getcount.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $29.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/count.svg?height=207"
+  },
+  {
+    "title": "Super Comments AI",
+    "link": "https://super-comments.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $27.21/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/super-comments-ai.svg?height=207"
+  },
+  {
+    "title": "Calibrex",
+    "link": "https://calibrex.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $8/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/calibrex.png?height=207"
+  },
+  {
+    "title": "Langflow",
+    "link": "https://www.langflow.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/langflow.svg?height=207"
+  },
+  {
+    "title": "Prepair",
+    "link": "https://www.letsprepair.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/prepair.svg?height=207"
+  },
+  {
+    "title": "PhotoRater",
+    "link": "https://photorater.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/photorater.svg?height=207"
+  },
+  {
+    "title": "Coach Lily",
+    "link": "https://www.coachlily.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5",
+    "icon": "https://media.theresanaiforthat.com/icons/coach-lily.svg?height=207"
+  },
+  {
+    "title": "iVu.AI",
+    "link": "https://ivu.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $20/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ivu-ai.svg?height=207"
+  },
+  {
+    "title": "MemoryPlugin",
+    "link": "https://www.memoryplugin.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $12.5/yr",
+    "icon": "https://media.theresanaiforthat.com/icons/memoryplugin.svg?height=207"
+  },
+  {
+    "title": "Yuzzit",
+    "link": "https://www.yuzzit.video/en/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/yuzzit.svg?height=207"
+  },
+  {
+    "title": "TextToVideo.Bot",
+    "link": "https://www.texttovideo.bot/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $4.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/texttovideo-bot.svg?height=207"
+  },
+  {
+    "title": "Study Potion AI",
+    "link": "https://www.studypotion.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $16/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/study-potion-ai-1726737933.svg?height=207"
+  },
+  {
+    "title": "Aithenticate",
+    "link": "https://aithenticate.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5.48/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/aithenticate.svg?height=207"
+  },
+  {
+    "title": "Fulgent AI | AI Headshots",
+    "link": "https://fulgentai.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "From $14.99",
+    "icon": "https://media.theresanaiforthat.com/icons/fulgent-ai-ai-headshots.png?height=207"
+  },
+  {
+    "title": "Netjet.io",
+    "link": "https://www.netjet.io/en/",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/netjet-io.png?height=207"
+  },
+  {
+    "title": "Haiku Generator",
+    "link": "https://www.haiku-generator.com/en?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/haiku-generator.svg?height=207"
+  },
+  {
+    "title": "Zeabur AI",
+    "link": "https://zeabur.com/ai?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $5/mo",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "OriginAI",
+    "link": "https://www.theorigin.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/originai.svg?height=207"
+  },
+  {
+    "title": "ChattyPage",
+    "link": "https://chattyui.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/chattypage.svg?height=207"
+  },
+  {
+    "title": "MachineTwin AI",
+    "link": "https://machinetwin.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+  },
+  {
+    "title": "Meditia App",
+    "link": "https://meditia.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/meditia-app.svg?height=207"
+  },
+  {
+    "title": "Lectura",
+    "link": "https://lectura.xyz/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/lectura.svg?height=207"
+  },
+  {
+    "title": "Fryderyk",
+    "link": "https://fryderyk.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/fryderyk.svg?height=207"
+  },
+  {
+    "title": "AI Assistify",
+    "link": "https://aiassistify.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-assistify.svg?height=207"
+  },
+  {
+    "title": "OneInbox",
+    "link": "https://oneinbox.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $27/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/oneinbox.svg?height=207"
+  },
+  {
+    "title": "Multi AI Chat",
+    "link": "https://multi-ai-chat-app.vercel.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $19.99/m...",
+    "icon": "https://media.theresanaiforthat.com/icons/multi-ai-chat.svg?height=207"
+  },
+  {
+    "title": "Bentolingo",
+    "link": "https://bentolingo.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.99/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/bentolingo.svg?height=207"
+  },
+  {
+    "title": "Bala AI",
+    "link": "https://play.google.com/store/apps/details?id=com.bala.ai.android&ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $1",
+    "icon": "https://media.theresanaiforthat.com/icons/bala-ai.png?height=207"
+  },
+  {
+    "title": "SupportScribe",
+    "link": "https://workspace.google.com/marketplace/app/supportscribe/801773990953?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/supportscribe.png?height=207"
+  },
+  {
+    "title": "Hostbuddy AI",
+    "link": "https://www.hostbuddy.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $10/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/hostbuddy-ai.svg?height=207"
+  },
+  {
+    "title": "AirNotes",
+    "link": "https://airnot.es/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/airnotes.svg?height=207"
+  },
+  {
+    "title": "Cressi",
+    "link": "https://cressi.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/cressi.svg?height=207"
+  },
+  {
+    "title": "Assistant Marketer",
+    "link": "https://www.assistantmarketer.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $30/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/assistant-marketer.svg?height=207"
+  },
+  {
+    "title": "Turbo Seek",
+    "link": "https://www.turboseek.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/turbo-seek.svg?height=207"
+  },
+  {
+    "title": "Talos AI Platform",
+    "link": "https://talosml.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/talos-ai-platform.svg?height=207"
+  },
+  {
+    "title": "AI Product Gen",
+    "link": "https://aiproductgen.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free",
+    "icon": "https://media.theresanaiforthat.com/icons/ai-product-gen.svg?height=207"
+  },
+  {
+    "title": "AtBridges",
+    "link": "https://atbridges.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9.9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/atbridges.svg?height=207"
+  },
+  {
+    "title": "LedgerUp",
+    "link": "https://www.ledgerup.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "No pricing",
+    "icon": "https://media.theresanaiforthat.com/icons/ledgerup.svg?height=207"
+  },
+  {
+    "title": "Podify.io",
+    "link": "https://podify.io/try?utm_source=directory&utm_medium=taaft&utm_campaign=web",
+    "price": "Free + from $17/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/podify-io.svg?height=207"
+  },
+  {
+    "title": "Prototide",
+    "link": "https://prototide.app/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $3",
+    "icon": "https://media.theresanaiforthat.com/icons/prototide.png?height=207"
+  },
+  {
+    "title": "Marevo",
+    "link": "https://marevo.io/?ref=taaft&utm_source=taaft&utm_medium=referral",
+    "price": "Free + from $9/mo",
+    "icon": "https://media.theresanaiforthat.com/icons/marevo.svg?height=207"
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "title": "H2O.ai",
+        "link": "https://h2o.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/h2o-ai.svg?height=207"
+    },
+    {
+        "title": "Riskified",
+        "link": "https://www.riskified.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/riskified.svg?height=207"
+    },
+    {
+        "title": "DataRobot",
+        "link": "https://www.datarobot.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/datarobot.svg?height=207"
+    },
+    {
+        "title": "Fontjoy",
+        "link": "https://fontjoy.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "Free",
+        "icon": "https://media.theresanaiforthat.com/icons/fontjoy.svg?height=207"
+    },
+    {
+        "title": "Einstein GPT",
+        "link": "https://www.salesforce.com/products/einstein/overview/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/einstein-gpt.svg?height=207"
+    },
+    {
+        "title": "Wallet AI",
+        "link": "https://wallet.ai/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/wallet-ai.svg?height=207"
+    },
+    {
+        "title": "Conversica",
+        "link": "https://www.conversica.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "No pricing",
+        "icon": "https://media.theresanaiforthat.com/icons/conversica.svg?height=207"
+    }
+]

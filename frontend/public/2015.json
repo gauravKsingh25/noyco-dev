@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Deepdreamgenerator",
+        "link": "https://deepdreamgenerator.com/generate",
+        "price": "Free + from $9/mo",
+        "icon": "https://media.theresanaiforthat.com/icons/deepdreamgenerator.svg?height=207"
+    },
+    {
+        "title": "DeepBeat",
+        "link": "https://deepbeat.org/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "Free",
+        "icon": "https://media.theresanaiforthat.com/assets/favicon-large.svg?height=207"
+    },
+    {
+        "title": "AI-Writer",
+        "link": "https://ai-writer.com/?ref=taaft&utm_source=taaft&utm_medium=referral",
+        "price": "From $24/mo",
+        "icon": "https://media.theresanaiforthat.com/icons/ai-writer.svg?height=207"
+    }
+]
